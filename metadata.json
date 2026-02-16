@@ -1,5 +1,5 @@
 {
-  "name": "Solicitação de Correio - Cirion",
-  "description": "Aplicativo para geração de Declaração de Conteúdo dos Correios com assinatura digital e envio via Outlook para o time de TI EUS Brasil.",
+  "name": "AssetLogix - Gestão de Ativos",
+  "description": "Uma plataforma avançada para gestão de transporte e logística de ativos imobilizados de TI, integrando inteligência artificial para automação de processos de remessa e coleta.",
   "requestFramePermissions": []
 }
